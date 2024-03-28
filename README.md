@@ -1,2 +1,2 @@
 # 100DaysOfCode
-My Log of 100DaysOfCode challenge.
+The Log of my #100DaysOfCode challenge.
