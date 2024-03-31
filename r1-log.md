@@ -14,3 +14,6 @@ Studied some SQL and C# interview questions, read a little bit of the Pragmatic 
 ### R1D70
 Studied the rest of SQL and C# interview questions.
 [C# Interview Questions](https://www.interviewbit.com/c-sharp-interview-questions/)
+
+### R1D71
+Studied some C# questions, worked on Azure blob storage.
