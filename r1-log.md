@@ -17,3 +17,6 @@ Studied the rest of SQL and C# interview questions.
 
 ### R1D71
 Studied some C# questions, worked on Azure blob storage.
+
+### R1D72
+Added upload photos functionality and depolyed the project.
