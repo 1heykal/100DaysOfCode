@@ -20,3 +20,6 @@ Studied some C# questions, worked on Azure blob storage.
 
 ### R1D72
 Added upload photos functionality and depolyed the project.
+
+### R1D78
+Wrote some SQL scripts to update the data in the db.
